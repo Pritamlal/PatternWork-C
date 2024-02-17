@@ -1,4 +1,3 @@
 # PatternWork-C
 
-Today i just practiced Some of Pattern programs in C lang!!
-
+Feeling good after tackling some C pattern challenges today!
